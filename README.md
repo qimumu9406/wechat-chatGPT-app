@@ -1,4 +1,4 @@
-# 手把手教会部署属于自己小程序
+# 手把手教会部署属于自己Chat GPT小程序
 ## 一、小程序页面
 ![image](https://user-images.githubusercontent.com/104196507/226098785-4b22b12d-40cd-49f7-991b-151ced403d43.png)
 ![image](https://user-images.githubusercontent.com/104196507/226098787-2c14e70d-43fa-49b8-82b6-ab1310238926.png)
