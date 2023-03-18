@@ -4,6 +4,10 @@
 ChatGPT是一款基于GPT-3.5的聊天机器人应用，拥有强大的自然语言理解和生成能力。使用ChatGPT，您可以建立自己的定制化聊天机器人，快速响应用户需求，提供个性化的服务。
 
 无需服务器，也不需要备案IP。您可以轻松地将ChatGPT集成到您的**微信小程序**中，让您的客户随时随地与您互动。
+
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/104196507/226104519-fccdad3d-eeac-4518-ac6a-c3f23bebf6e3.png">
+
+
 ## 一、小程序页面
 ![image](https://user-images.githubusercontent.com/104196507/226098785-4b22b12d-40cd-49f7-991b-151ced403d43.png)
 ![image](https://user-images.githubusercontent.com/104196507/226098787-2c14e70d-43fa-49b8-82b6-ab1310238926.png)
@@ -29,6 +33,5 @@ ChatGPT是一款基于GPT-3.5的聊天机器人应用，拥有强大的自然语
 * H5版 – 开发中
 * 对接公众号 – 开发中
 ## 四、详细部署文档（咨询微信号：qimumu9406）
- <img width="428" alt="image" src="https://user-images.githubusercontent.com/104196507/226104519-fccdad3d-eeac-4518-ac6a-c3f23bebf6e3.png">
-  
+
 ![image](https://user-images.githubusercontent.com/104196507/226098815-70093b00-90e6-4010-83f2-9fc3ca173a48.png)
