@@ -23,5 +23,5 @@
 * 分销 – 已完成
 * H5版 – 开发中
 * 对接公众号 – 开发中
-## 四、获取文档
+## 四、详细部署文档（咨询微信号：qimumu9406）
 ![image](https://user-images.githubusercontent.com/104196507/226098815-70093b00-90e6-4010-83f2-9fc3ca173a48.png)
