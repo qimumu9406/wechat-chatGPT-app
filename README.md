@@ -12,6 +12,8 @@ ChatGPT是一款基于GPT-3.5的聊天机器人应用，拥有强大的自然语
 ![image](https://user-images.githubusercontent.com/104196507/226098785-4b22b12d-40cd-49f7-991b-151ced403d43.png)
 ![image](https://user-images.githubusercontent.com/104196507/226098787-2c14e70d-43fa-49b8-82b6-ab1310238926.png)
 ![image](https://user-images.githubusercontent.com/104196507/226098794-1b5a96a7-6ee5-44e8-8e93-f24f247e1edd.png)
+![image](https://user-images.githubusercontent.com/104196507/226231288-e65b6969-8880-45f3-9a77-3df58774ef8e.png)
+
 ![image](https://user-images.githubusercontent.com/104196507/226098799-9ab3b4d8-74c9-4dd5-b619-ac6080ad4583.png)
 ![image](https://user-images.githubusercontent.com/104196507/226098802-6ee48ec9-2d16-48b6-bf54-99f05b494d5e.png)
 
@@ -30,6 +32,7 @@ ChatGPT是一款基于GPT-3.5的聊天机器人应用，拥有强大的自然语
 * 关键词过滤功能 
 * 多开版 
 * 分销 
+* 创造中心
 * H5版（规划中）
 * 对接公众号（规划中）
 ## 四、详细部署文档（咨询微信号：qimumu9406）
